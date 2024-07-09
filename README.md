@@ -7,4 +7,7 @@ Computer Science Engineering Student
  - I'm looking to collaborate on Software Developer
  - Ask me about Tech
  - How to reach me : <br /> [<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />](https://www.linkedin.com/in/mouleetharan)
+ - Fun fact: I know Japanese.
+### I code in 
+<img height="50" width="50" src="https://img.icons8.com/c010r/48/000000/python.png" / >
 

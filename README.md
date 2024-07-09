@@ -9,5 +9,5 @@ Computer Science Engineering Student
  - How to reach me : <br /> [<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />](https://www.linkedin.com/in/mouleetharan)
  - Fun fact: I know Japanese.
 ### I code in 
-<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" /><img height="50" width="50" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />
 
